@@ -1,0 +1,3 @@
+KMeans_Cluster,GrowthFactor,AOV,MonthlyOrders,ProfitMargin,CostPressure,AggregatorShare,DeliveryRadiusKM,Scale
+0,1.027,38.182,1312.04,-0.059,0.875,0.75,10.635,1348.233
+1,1.029,38.639,1146.376,0.164,0.625,0.753,10.54,1179.628
